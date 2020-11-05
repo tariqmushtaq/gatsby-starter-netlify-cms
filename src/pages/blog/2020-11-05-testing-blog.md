@@ -8,7 +8,7 @@ description: >
   quick. Blue Mountain Peak is the highest mountain in Jamaica and one of the
   highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain
   coffee and their famous tours. It is located on the border of the Portland and
-  Saint Thomas…
+  Saint Thomas…dsa
 
 
 
